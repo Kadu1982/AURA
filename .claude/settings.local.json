@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.gradlew.bat:*)",
+      "Bash(gradlew.bat assembleDebug:*)",
+      "Bash(cmd /c \"cd /d C:\\Users\\G15\\AndroidStudioProjects\\AURA && gradlew.bat assembleDebug\")",
+      "Bash(./gradlew.bat assembleDebug:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
